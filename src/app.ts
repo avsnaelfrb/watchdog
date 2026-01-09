@@ -18,14 +18,14 @@ const runWatchDog = async () => {
     try {
         console.log("Memulai Scraping...");
         const oldData = readDB()
-        console.log(`📂 Data lama ditemukan: ${oldData.length} item`);
+        console.log(`Data lama ditemukan: ${oldData.length} item`);
 
         const newData = await getLatestCost(base_url)
-        console.log(`🌐 Data baru dari web: ${newData?.length} item`);
+        console.log(`Data baru dari web: ${newData?.length} item`);
         
         if (newData && newData.length > 0) {
             const reportAlert = compareCount(oldData, newData!)
-            console.log(`🔍 Jumlah perubahan: ${reportAlert.length}`);
+            console.log(`Jumlah perubahan: ${reportAlert.length}`);
 
             if (reportAlert.length > 0) {
                 const fullMessage = `NOTIFIKASI HARGA:\n\n` + reportAlert.join('\n\n');
@@ -47,11 +47,11 @@ const task = async () => {
     await runWatchDog()
 }
 
-cron.schedule('*/30 * * * *', task)
+cron.schedule('*/10 * * * *', task)
 
 app.listen(port, () => {
     console.log(`app run in http://localhost:${port}`);
-    console.log("🚀 Watchdog Scheduler aktif! Mengecek setiap 30 menit.");
+    console.log("Watchdog Scheduler aktif! Mengecek setiap 30 menit.");
 
     task()
 })
