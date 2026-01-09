@@ -1,0 +1,587 @@
+[
+  {
+    "id": 1,
+    "name": "Asus VivoBook X441NA-GA190",
+    "cost": 295.99
+  },
+  {
+    "id": 2,
+    "name": "Prestigio SmartBook 133S Dark Grey",
+    "cost": 299
+  },
+  {
+    "id": 3,
+    "name": "Prestigio SmartBook 133S Gold",
+    "cost": 299
+  },
+  {
+    "id": 4,
+    "name": "Aspire E1-510",
+    "cost": 306.99
+  },
+  {
+    "id": 5,
+    "name": "Lenovo V110-15IAP",
+    "cost": 321.94
+  },
+  {
+    "id": 6,
+    "name": "Lenovo V110-15IAP",
+    "cost": 356.49
+  },
+  {
+    "id": 7,
+    "name": "Hewlett Packard 250 G6 Dark Ash Silver",
+    "cost": 364.46
+  },
+  {
+    "id": 8,
+    "name": "Acer Aspire 3 A315-31 Black",
+    "cost": 372.7
+  },
+  {
+    "id": 9,
+    "name": "Acer Aspire A315-31-C33J",
+    "cost": 379.94
+  },
+  {
+    "id": 10,
+    "name": "Acer Aspire ES1-572 Black",
+    "cost": 379.95
+  },
+  {
+    "id": 11,
+    "name": "Acer Aspire 3 A315-31 Black",
+    "cost": 391.48
+  },
+  {
+    "id": 12,
+    "name": "Acer Aspire 3 A315-21",
+    "cost": 393.88
+  },
+  {
+    "id": 13,
+    "name": "Asus VivoBook Max",
+    "cost": 399
+  },
+  {
+    "id": 14,
+    "name": "Asus VivoBook E502NA-GO022T Dark Blue",
+    "cost": 399.99
+  },
+  {
+    "id": 15,
+    "name": "Lenovo ThinkPad E31-80",
+    "cost": 404.23
+  },
+  {
+    "id": 16,
+    "name": "Acer Aspire 3 A315-31 Black",
+    "cost": 408.98
+  },
+  {
+    "id": 17,
+    "name": "Lenovo V110-15ISK",
+    "cost": 409.63
+  },
+  {
+    "id": 18,
+    "name": "Acer Aspire ES1-732 Black",
+    "cost": 410.46
+  },
+  {
+    "id": 19,
+    "name": "Asus VivoBook 15 X540NA-GQ026T",
+    "cost": 410.66
+  },
+  {
+    "id": 20,
+    "name": "Packard 255 G2",
+    "cost": 416.99
+  },
+  {
+    "id": 21,
+    "name": "Asus EeeBook R416NA-FA014T",
+    "cost": 433.3
+  },
+  {
+    "id": 22,
+    "name": "Acer Aspire 3 A315-51",
+    "cost": 436.29
+  },
+  {
+    "id": 23,
+    "name": "Acer Aspire ES1-572 Black",
+    "cost": 436.29
+  },
+  {
+    "id": 24,
+    "name": "Acer Extensa 15 (2540) Black",
+    "cost": 439.73
+  },
+  {
+    "id": 25,
+    "name": "Acer Aspire ES1-572 Black",
+    "cost": 454.62
+  },
+  {
+    "id": 26,
+    "name": "Lenovo V110-15ISK",
+    "cost": 454.73
+  },
+  {
+    "id": 27,
+    "name": "Acer Aspire A315-51-33TG",
+    "cost": 457.38
+  },
+  {
+    "id": 28,
+    "name": "Lenovo V110-15IKB",
+    "cost": 465.95
+  },
+  {
+    "id": 29,
+    "name": "Asus VivoBook 15 X540UA-DM260 Chocolate Black",
+    "cost": 468.56
+  },
+  {
+    "id": 30,
+    "name": "Acer Aspire ES1-572 Black",
+    "cost": 469.1
+  },
+  {
+    "id": 31,
+    "name": "Lenovo V510 Black",
+    "cost": 484.23
+  },
+  {
+    "id": 32,
+    "name": "Acer Aspire ES1-572 Black",
+    "cost": 485.9
+  },
+  {
+    "id": 33,
+    "name": "Lenovo V510 Black",
+    "cost": 487.8
+  },
+  {
+    "id": 34,
+    "name": "Acer Swift 1 SF113-31 Silver",
+    "cost": 488.64
+  },
+  {
+    "id": 35,
+    "name": "Dell Vostro 15",
+    "cost": 488.78
+  },
+  {
+    "id": 36,
+    "name": "Acer Aspire 3 A315-51 Black",
+    "cost": 494.71
+  },
+  {
+    "id": 37,
+    "name": "Dell Vostro 15 (3568) Red",
+    "cost": 497.17
+  },
+  {
+    "id": 38,
+    "name": "Lenovo V510 Black",
+    "cost": 498.23
+  },
+  {
+    "id": 39,
+    "name": "HP 250 G3",
+    "cost": 520.99
+  },
+  {
+    "id": 40,
+    "name": "Acer Spin 5",
+    "cost": 564.98
+  },
+  {
+    "id": 41,
+    "name": "HP 350 G1",
+    "cost": 577.99
+  },
+  {
+    "id": 42,
+    "name": "Aspire E1-572G",
+    "cost": 581.99
+  },
+  {
+    "id": 43,
+    "name": "Pavilion",
+    "cost": 609.99
+  },
+  {
+    "id": 44,
+    "name": "Acer Aspire A515-51-5654",
+    "cost": 679
+  },
+  {
+    "id": 45,
+    "name": "Dell Inspiron 15",
+    "cost": 679
+  },
+  {
+    "id": 46,
+    "name": "Asus VivoBook S14",
+    "cost": 729
+  },
+  {
+    "id": 47,
+    "name": "ProBook",
+    "cost": 739.99
+  },
+  {
+    "id": 48,
+    "name": "Inspiron 15",
+    "cost": 745.99
+  },
+  {
+    "id": 49,
+    "name": "Asus ROG STRIX GL553VD-DM256",
+    "cost": 799
+  },
+  {
+    "id": 50,
+    "name": "Acer Nitro 5 AN515-51",
+    "cost": 809
+  },
+  {
+    "id": 51,
+    "name": "Asus ROG STRIX GL553VD-DM256",
+    "cost": 899
+  },
+  {
+    "id": 52,
+    "name": "Lenovo ThinkPad L570",
+    "cost": 999
+  },
+  {
+    "id": 53,
+    "name": "ThinkPad Yoga",
+    "cost": 1033.99
+  },
+  {
+    "id": 54,
+    "name": "Lenovo ThinkPad L460",
+    "cost": 1096.02
+  },
+  {
+    "id": 55,
+    "name": "Dell Inspiron 15 (7567) Black",
+    "cost": 1098.42
+  },
+  {
+    "id": 56,
+    "name": "MSI GL72M 7RDX",
+    "cost": 1099
+  },
+  {
+    "id": 57,
+    "name": "MSI GL72M 7RDX",
+    "cost": 1099
+  },
+  {
+    "id": 58,
+    "name": "Asus ROG Strix GL553VD-DM535T",
+    "cost": 1101.83
+  },
+  {
+    "id": 59,
+    "name": "Dell Latitude 5280",
+    "cost": 1102.66
+  },
+  {
+    "id": 60,
+    "name": "Dell Latitude 5480",
+    "cost": 1110.14
+  },
+  {
+    "id": 61,
+    "name": "Lenovo Legion Y520-15IKBM",
+    "cost": 1112.91
+  },
+  {
+    "id": 62,
+    "name": "Toshiba Portege Z30-C-16J Grey",
+    "cost": 1114.55
+  },
+  {
+    "id": 63,
+    "name": "Acer Predator Helios 300 (PH317-51)",
+    "cost": 1123.87
+  },
+  {
+    "id": 64,
+    "name": "Acer Aspire 7 A715-71G",
+    "cost": 1123.87
+  },
+  {
+    "id": 65,
+    "name": "Dell Inspiron 17 2in1 (7779) Silver",
+    "cost": 1124.2
+  },
+  {
+    "id": 66,
+    "name": "Dell Latitude 5480",
+    "cost": 1133.82
+  },
+  {
+    "id": 67,
+    "name": "Lenovo Legion Y520",
+    "cost": 1133.91
+  },
+  {
+    "id": 68,
+    "name": "Asus AsusPro Advanced BU401LA-FA271G Dark Grey",
+    "cost": 1139.54
+  },
+  {
+    "id": 69,
+    "name": "Acer Nitro 5 AN515-51",
+    "cost": 1140.62
+  },
+  {
+    "id": 70,
+    "name": "Dell Latitude 5480",
+    "cost": 1143.4
+  },
+  {
+    "id": 71,
+    "name": "Dell Inspiron 15 (7567) Black",
+    "cost": 1144.2
+  },
+  {
+    "id": 72,
+    "name": "Dell Latitude 5580",
+    "cost": 1144.4
+  },
+  {
+    "id": 73,
+    "name": "Lenovo Legion Y520-15IKBM",
+    "cost": 1149
+  },
+  {
+    "id": 74,
+    "name": "MSI GP62M 7RDX Leopard",
+    "cost": 1149
+  },
+  {
+    "id": 75,
+    "name": "Lenovo Yoga 720 Grey",
+    "cost": 1149.73
+  },
+  {
+    "id": 76,
+    "name": "Toshiba Portege Z30-C-16L Grey",
+    "cost": 1154.04
+  },
+  {
+    "id": 77,
+    "name": "Acer TravelMate P645-S-511A Black",
+    "cost": 1170.1
+  },
+  {
+    "id": 78,
+    "name": "Dell Latitude 5580",
+    "cost": 1178.19
+  },
+  {
+    "id": 79,
+    "name": "ThinkPad T540p",
+    "cost": 1178.99
+  },
+  {
+    "id": 80,
+    "name": "MSI GS63 7RD Stealth",
+    "cost": 1179
+  },
+  {
+    "id": 81,
+    "name": "Dell Latitude 5480",
+    "cost": 1187.88
+  },
+  {
+    "id": 82,
+    "name": "Acer Predator Helios 300 (PH317-51)",
+    "cost": 1187.98
+  },
+  {
+    "id": 83,
+    "name": "MSI GL62M 7REX",
+    "cost": 1199
+  },
+  {
+    "id": 84,
+    "name": "MSI GL62M 7REX2",
+    "cost": 1199
+  },
+  {
+    "id": 85,
+    "name": "Lenovo Yoga 910 Grey",
+    "cost": 1199.73
+  },
+  {
+    "id": 86,
+    "name": "Toshiba Portege X30-D-10J Black/Blue",
+    "cost": 1203.41
+  },
+  {
+    "id": 87,
+    "name": "Lenovo IdeaPad Miix 510 Platinum Silver",
+    "cost": 1212.16
+  },
+  {
+    "id": 88,
+    "name": "Acer Predator Helios 300 (PH317-51)",
+    "cost": 1221.58
+  },
+  {
+    "id": 89,
+    "name": "ThinkPad Yoga",
+    "cost": 1223.99
+  },
+  {
+    "id": 90,
+    "name": "Asus VivoBook Pro 15 N580VN-FI006T Gold Metal",
+    "cost": 1235.49
+  },
+  {
+    "id": 91,
+    "name": "Dell Latitude 5480",
+    "cost": 1238.37
+  },
+  {
+    "id": 92,
+    "name": "Asus ZenBook UX530UX-FY040T Blue",
+    "cost": 1239.2
+  },
+  {
+    "id": 93,
+    "name": "ThinkPad X230",
+    "cost": 1244.99
+  },
+  {
+    "id": 94,
+    "name": "Asus ROG Strix GL753VE-GC096T",
+    "cost": 1259
+  },
+  {
+    "id": 95,
+    "name": "Apple MacBook Air 13\"",
+    "cost": 1260.13
+  },
+  {
+    "id": 96,
+    "name": "Dell Latitude 5480",
+    "cost": 1271.06
+  },
+  {
+    "id": 97,
+    "name": "Hewlett Packard Spectre 13-v106na Dark Ash Silver",
+    "cost": 1273.11
+  },
+  {
+    "id": 98,
+    "name": "Dell XPS 13",
+    "cost": 1281.99
+  },
+  {
+    "id": 99,
+    "name": "Toshiba Portege Z30-C-16K Grey",
+    "cost": 1294.74
+  },
+  {
+    "id": 100,
+    "name": "MSI GL62VR 7RFX",
+    "cost": 1299
+  },
+  {
+    "id": 101,
+    "name": "Dell Latitude 5480",
+    "cost": 1310.39
+  },
+  {
+    "id": 102,
+    "name": "ThinkPad X240",
+    "cost": 1311.99
+  },
+  {
+    "id": 103,
+    "name": "Hewlett Packard ProBook 640 G3",
+    "cost": 1326.83
+  },
+  {
+    "id": 104,
+    "name": "Apple MacBook Pro 13\" Space Gray",
+    "cost": 1333
+  },
+  {
+    "id": 105,
+    "name": "Dell Latitude 5580",
+    "cost": 1337.28
+  },
+  {
+    "id": 106,
+    "name": "Dell Latitude 5480",
+    "cost": 1338.37
+  },
+  {
+    "id": 107,
+    "name": "Dell Latitude 5580",
+    "cost": 1341.22
+  },
+  {
+    "id": 108,
+    "name": "Apple MacBook Air 13\"",
+    "cost": 1347.78
+  },
+  {
+    "id": 109,
+    "name": "Lenovo ThinkPad T470",
+    "cost": 1349.23
+  },
+  {
+    "id": 110,
+    "name": "Lenovo ThinkPad Yoga 370 Black",
+    "cost": 1362.24
+  },
+  {
+    "id": 111,
+    "name": "Toshiba Portege X20W-D-10V Black/Blue",
+    "cost": 1366.32
+  },
+  {
+    "id": 112,
+    "name": "Asus ASUSPRO B9440UA-GV0279R Gray",
+    "cost": 1381.13
+  },
+  {
+    "id": 113,
+    "name": "Lenovo Legion Y720",
+    "cost": 1399
+  },
+  {
+    "id": 114,
+    "name": "Asus ROG Strix GL702VM-GC146T",
+    "cost": 1399
+  },
+  {
+    "id": 115,
+    "name": "Asus ROG Strix GL702ZC-GC154T",
+    "cost": 1769
+  },
+  {
+    "id": 116,
+    "name": "Asus ROG Strix GL702ZC-GC209T",
+    "cost": 1769
+  },
+  {
+    "id": 117,
+    "name": "Asus ROG Strix SCAR Edition GL503VM-ED115T",
+    "cost": 1799
+  }
+]
