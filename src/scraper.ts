@@ -4,7 +4,8 @@ import * as cheerio from 'cheerio'
 export interface Items {
     id: number,
     name: string,
-    cost: number
+    cost: number,
+    link: string
 }
 
 export const getLatestCost = async (url: string) => {
@@ -33,12 +34,15 @@ export const getLatestCost = async (url: string) => {
         $('.card').each((i, el) => {
             const itemName: any = $(el).find('.title').attr('title')?.trim()
             const itemCost: any = $(el).find('.price').text().trim()
+            const itemLink = $(el).find('.title').attr('href');
     
             const cleanCost = parseFloat(itemCost.replace('$', ''))
+            const link  = 'https://webscraper.io' + itemLink
             items.push({
                 id: i + 1,
                 name: itemName,
-                cost: cleanCost
+                cost: cleanCost,
+                link: link
             })
         })
         return items
